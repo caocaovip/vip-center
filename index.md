@@ -1,10 +1,10 @@
 
 
-<!DOCTYPEhtml>
+
 <html>
 <head>
 <meta charset="utf-8">
-<title>曹操的万能网站</title>
+<title 8px>曹操的万能网站</title>
 </head>
 <body>
 曹操哥哥的万能网站3a5txr9w(*⊙_⊙)<br>
@@ -27,7 +27,7 @@ dl
 
 <a href="D:\0504\mp4\习近平乘车检阅部队-_高清.mp4" target="_blank">阅兵式</a><br><br>
 
-<a href="https://123apps.com/cn/"target="_blank">123APPS </a>
+<a href="https://123apps.com/cn/" target="_blank">123APPS </a>
 
 <a href="http://www.subook.cn/yinyue/yy.html" target="_blank">音乐</a>
 
