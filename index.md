@@ -1,10 +1,5 @@
 
-
-
-<html>
-<head>
-<meta charset="utf-8">
-<title 8px>曹操的万能网站</title>
+#曹操的万能网站<br><br><br><br><br><br><br><br><br>
 </head>
 <body>
 曹操哥哥的万能网站3a5txr9w(*⊙_⊙)<br>
