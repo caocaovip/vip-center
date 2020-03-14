@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>vip-center</title>
+<title>贵宾中心</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="vip-center" />
 <meta property="og:locale" content="en_US" />
@@ -25,20 +25,18 @@
       <h1 class="project-name">vip-center</h1>
       <h2 class="project-tagline"></h2>
       
-        <a href="https://github.com/caocaovip/vip-center" class="btn">View on GitHub</a>
+        <a href="https://caocaovip.github.io/vip-center/" class="btn">View on GitHub</a>
       
       
     </section>
 
     <section class="main-content">
      
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8" />
+
 <p>曹操的万能网站</p>
  <br /><body>曹操哥哥的万能网站3a5txr9w(*⊙_⊙)<br />
 <i>曹操哥哥的万能网站(*⊙_⊙)lqbtjxzsqkadxcadmin<br /></i>
-&gt;
+
 <p>曹操哥哥网站功能：</p>
 <li>编程
 <li>工具
@@ -89,17 +87,6 @@ dl
 
 
 
-
-&lt;/body&gt;
-
-
-
-
-
-
-
-
-&lt;/html&gt;
 
 </a></li></li></li></li></li></li></body>
 
