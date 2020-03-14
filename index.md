@@ -1,11 +1,44 @@
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>vip-center</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="vip-center" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://caocaovip.github.io/vip-center/" />
+<meta property="og:url" content="https://caocaovip.github.io/vip-center/" />
+<meta property="og:site_name" content="vip-center" />
+<script type="application/ld+json">
+{"headline":"vip-center","@type":"WebSite","url":"https://caocaovip.github.io/vip-center/","name":"vip-center","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/vip-center/assets/css/style.css?v=b6baf498ca5a5ae593cdfded6a47fb61eceee59a">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">vip-center</h1>
+      <h2 class="project-tagline"></h2>
+      
+        <a href="https://github.com/caocaovip/vip-center" class="btn">View on GitHub</a>
+      
+      
+    </section>
+
+    <section class="main-content">
+     
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
 <p>曹操的万能网站</p>
- <br><body>曹操哥哥的万能网站3a5txr9w(*⊙_⊙)<br>
-<i>曹操哥哥的万能网站(*⊙_⊙)lqbtjxzsqkadxcadmin<br></i>
->
+ <br /><body>曹操哥哥的万能网站3a5txr9w(*⊙_⊙)<br />
+<i>曹操哥哥的万能网站(*⊙_⊙)lqbtjxzsqkadxcadmin<br /></i>
+&gt;
 <p>曹操哥哥网站功能：</p>
 <li>编程
 <li>工具
@@ -75,25 +108,33 @@ dl
         
          
       </footer>
+    &lt;/section&gt;
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head></html>
+
+
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://caocaovip.github.io/vip-center/">vip-center</a> is maintained by <a href="https://caocaovip.github.io/vip-center/">caocaovip</a>.</span>
+        
+      
     </section>
 
     
   </body>
 </html>
-
-
-
-
-
-
-</body>
-
-
-
-
-
-
-
-
-</html>
-
